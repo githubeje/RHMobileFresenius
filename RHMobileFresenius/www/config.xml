@@ -3,9 +3,9 @@
     	id = "cl.mobile.portalrrhh" 
     	version   = "2.0.0">
  
-	<name>Portal RRHH Fresenius</name>
+	<name>Portal de Personas Fresenius</name>
 
-	<description> Portal RRHH movil de Fresenius</description>
+	<description> Portal de Personas movil de Fresenius</description>
 
 	<author href="https://www.ejedigital.cl" email="soporte@ejedigital.cl">Soporte</author>
 
